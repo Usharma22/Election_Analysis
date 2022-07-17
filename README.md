@@ -6,7 +6,7 @@ Module3
 ## Election-Audit Results:
      1. Total number of votes or votes were cast in this congressional election = 369,711
      2. Election Results
-![election analysis result}(Election_Analysis/election_results.csv)
+![election analysis result](Election_Analysis/election_results.csv)
          Breakdown of the number of votes and the percentage of County Votes:
                 Jefferson: 10.5% (38,855)
                 Denver: 82.8% (306,055)
